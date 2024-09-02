@@ -1,0 +1,21 @@
+# TYPESCRIPT
+# Ignore compiled JavaScript files
+Typescript/**/*.js
+Typescript/**/*.js.map
+
+# Ignore node_modules directory
+Typescript/node_modules/
+
+# Ignore TypeScript cache and output directories
+Typescript/dist/
+Typescript/build/
+Typescript/out/
+
+# Ignore TypeScript declaration files (optional)
+Typescript/**/*.d.ts
+
+# Ignore other potential output files
+Typescript/**/*.log
+
+
+############################################
