@@ -1,16 +1,117 @@
 *** Learning Order ***
-1. Introduction to Typescript
-2. Basic Typescript
+
+1. Introduction to TypeScript
+   - What is TypeScript?
+   - Setting up TypeScript
+   - TypeScript vs JavaScript
+   - Compiling TypeScript (tsc command)
+
+2. Basic Types
+   - Primitive types: string, number, boolean
+   - Arrays and Tuples
+   - Enums
+   - any, unknown, void, null, and undefined
+   - Type inference
+
 3. Type Annotations
+   - Variable type annotations
+   - Function type annotations (parameters and return types)
+   - Optional and default parameters
+   - Rest parameters
+
 4. Interfaces
+   - Defining interfaces
+   - Optional properties
+   - Readonly properties
+   - Extending interfaces
+   - Interface vs Type alias
+
 5. Classes
-6. Advanced Types - Union and Intersection types | Literal Types | Type Aliases | Type Assertions | Non-null assertion operator | Index Signatures | keyof and typeof operators
-7. Functions in Depth - Function Types | Higher-order Functions | Function Overloads | Generic Functions
+   - Introduction to classes
+   - Class properties and methods
+   - Constructors and parameter properties
+   - Inheritance and method overriding
+   - Access modifiers: public, private, protected
+   - Readonly properties
+   - Static properties and methods
+   - Abstract classes and methods
+
+6. Advanced Types
+   - Union and Intersection types
+   - Literal types
+   - Type aliases
+   - Type assertions (casting)
+   - Non-null assertion operator (!)
+   - Index signatures
+   - keyof and typeof operators
+
+7. Functions in Depth
+   - Function types
+   - Higher-order functions
+   - Function overloads
+   - Generic functions
+
 8. Generics
+   - Introduction to generics
+   - Generic functions
+   - Generic interfaces
+   - Generic classes
+   - Generic constraints
+
 9. Modules
+   - ES Modules vs CommonJS
+   - Importing and exporting modules
+   - Default exports vs named exports
+   - Re-exporting
+
 10. Namespaces
-11. Advanced Type Features - Conditional types | Mapped types | Utility types (Partial-Pick-Omit-Record-Exclude) | Discriminated Unions | Type Guards and Type Narrowing
-12. Decorators
+   - Introduction to namespaces
+   - Nested namespaces
+   - Merging namespaces
+
+11. Advanced Type Features
+   - Conditional types
+   - Mapped types
+   - Utility types (e.g., Partial, Pick, Omit, Record, Exclude, etc.)
+   - Discriminated unions
+   - Type guards and type narrowing
+
+12. Decorators (Optional)
+   - Introduction to decorators
+   - Class, method, property, and parameter decorators
+   - Decorators in TypeScript with experimentalDecorators
+
 13. Working with External Libraries
+   - Using third-party libraries with TypeScript
+   - Type definitions (@types)
+   - Writing your own type definitions
+   - tsconfig.json configuration
+
 14. TypeScript in the Real World
+   - Integrating TypeScript with build tools (Webpack, Babel)
+   - TypeScript with popular frameworks (React, Node.js, Angular)
+   - TypeScript in a full-stack project
+
+15. Testing TypeScript
+   - Writing tests in TypeScript
+   - Using testing frameworks (Jest, Mocha) with TypeScript
+
+16. Best Practices
+   - Code organization and structure
+   - Type safety best practices
+   - Avoiding common TypeScript pitfalls
+
+17. Advanced Topics (Optional)
+   - TypeScript with DDD (Domain-Driven Design)
+   - Advanced TypeScript with Functional Programming
+
+18. Final Projects and Real-World Applications
+   - Building a complete project in TypeScript
+   - Contributing to open-source TypeScript projects
+   - Refactoring an existing JavaScript project to TypeScript
+
+19. Conclusion
+   - Reviewing and solidifying concepts
+   - Exploring TypeScript’s future roadmap and ecosystem
+
 ************************************************************************************************************
