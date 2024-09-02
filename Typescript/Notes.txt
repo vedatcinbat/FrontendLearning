@@ -1,0 +1,16 @@
+*** Learning Order ***
+1. Introduction to Typescript
+2. Basic Typescript
+3. Type Annotations
+4. Interfaces
+5. Classes
+6. Advanced Types - Union and Intersection types | Literal Types | Type Aliases | Type Assertions | Non-null assertion operator | Index Signatures | keyof and typeof operators
+7. Functions in Depth - Function Types | Higher-order Functions | Function Overloads | Generic Functions
+8. Generics
+9. Modules
+10. Namespaces
+11. Advanced Type Features - Conditional types | Mapped types | Utility types (Partial-Pick-Omit-Record-Exclude) | Discriminated Unions | Type Guards and Type Narrowing
+12. Decorators
+13. Working with External Libraries
+14. TypeScript in the Real World
+************************************************************************************************************
