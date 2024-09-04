@@ -36,14 +36,14 @@
    + Static properties and methods
    + Abstract classes and methods
 
-6. Advanced Types
-   - Union and Intersection types
-   - Literal types
-   - Type aliases
-   - Type assertions (casting)
-   - Non-null assertion operator (!)
-   - Index signatures
-   - keyof and typeof operators
+6. Advanced Types (Done)
+   + Union and Intersection types
+   + Literal types
+   + Type aliases
+   + Type assertions (casting)
+   + Non-null assertion operator (!)
+   + Index signatures
+   + keyof and typeof operators
 
 7. Functions in Depth
    - Function types
