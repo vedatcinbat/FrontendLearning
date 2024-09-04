@@ -45,11 +45,11 @@
    + Index signatures
    + keyof and typeof operators
 
-7. Functions in Depth
-   - Function types
-   - Higher-order functions
-   - Function overloads
-   - Generic functions
+7. Functions in Depth (Done)
+   + Function types
+   + Higher-order functions
+   + Function overloads
+   + Generic functions
 
 8. Generics
    - Introduction to generics
