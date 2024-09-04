@@ -58,16 +58,16 @@
    + Generic classes
    + Generic constraints
 
-9. Modules
-   - ES Modules vs CommonJS
-   - Importing and exporting modules
-   - Default exports vs named exports
-   - Re-exporting
+9. Modules (Done)
+   + ES Modules vs CommonJS
+   + Importing and exporting modules
+   + Default exports vs named exports
+   + Re-exporting
 
-10. Namespaces
-   - Introduction to namespaces
-   - Nested namespaces
-   - Merging namespaces
+10. Namespaces (Done)
+   + Introduction to namespaces
+   + Nested namespaces
+   + Merging namespaces
 
 11. Advanced Type Features
    - Conditional types

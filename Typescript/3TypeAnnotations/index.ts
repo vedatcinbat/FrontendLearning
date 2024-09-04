@@ -52,11 +52,11 @@ console.log(greetUserDefault('Bob')); // Hello Bob, you are 18 years old
 
 
 // Rest Parameters
-const addNumbers = (...numbers: number[]): number => {
+/* const addNumbers = (...numbers: number[]): number => {
     return numbers.reduce((sum, num) => sum + num, 0);
-}
+} */
 
-console.log(addNumbers(1, 2, 3, 4)); // 10
+//console.log(addNumbers(1, 2, 3, 4)); // 10
 
 // ...numbers: number[] is a rest parameter that allows you to pass any number of arguments to the function
 // The function then sums up all the numbers and returns the total
