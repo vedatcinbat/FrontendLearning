@@ -17,5 +17,7 @@ Typescript/**/*.d.ts
 # Ignore other potential output files
 Typescript/**/*.log
 
+TypeScript/coverage/
+
 
 ############################################
