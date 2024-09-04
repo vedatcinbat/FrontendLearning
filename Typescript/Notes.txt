@@ -76,10 +76,10 @@
    + Discriminated unions
    + Type guards and type narrowing
 
-12. Decorators (Optional)
-   - Introduction to decorators
-   - Class, method, property, and parameter decorators
-   - Decorators in TypeScript with experimentalDecorators
+12. Decorators (Optional) (Done)
+   + Introduction to decorators
+   + Class, method, property, and parameter decorators
+   + Decorators in TypeScript with experimentalDecorators
 
 13. Working with External Libraries
    - Using third-party libraries with TypeScript
