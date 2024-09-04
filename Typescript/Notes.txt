@@ -69,12 +69,12 @@
    + Nested namespaces
    + Merging namespaces
 
-11. Advanced Type Features
-   - Conditional types
-   - Mapped types
-   - Utility types (e.g., Partial, Pick, Omit, Record, Exclude, etc.)
-   - Discriminated unions
-   - Type guards and type narrowing
+11. Advanced Type Features (Done)
+   + Conditional types
+   + Mapped types
+   + Utility types (e.g., Partial, Pick, Omit, Record, Exclude, etc.)
+   + Discriminated unions
+   + Type guards and type narrowing
 
 12. Decorators (Optional)
    - Introduction to decorators
