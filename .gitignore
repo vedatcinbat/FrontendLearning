@@ -17,7 +17,8 @@ Typescript/**/*.d.ts
 # Ignore other potential output files
 Typescript/**/*.log
 
-TypeScript/coverage/
+# Ignore coverage reports
+Typescript/coverage/
 
 
 ############################################

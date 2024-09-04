@@ -87,20 +87,20 @@
    + Writing your own type definitions
    + tsconfig.json configuration
 
-14. TypeScript in the Real World
-   - Integrating TypeScript with build tools (Webpack, Babel)
-   - TypeScript with popular frameworks (React, Node.js, Angular)
-   - TypeScript in a full-stack project
+14. TypeScript in the Real World (Done)
+   + Integrating TypeScript with build tools (Webpack, Babel)
+   + TypeScript with popular frameworks (React, Node.js, Angular)
+   + TypeScript in a full-stack project
 
-15. Testing TypeScript
-   - Writing tests in TypeScript
-   - Using testing frameworks (Jest, Mocha) with TypeScript
+15. Testing TypeScript (Done)
+   + Writing tests in TypeScript
+   + Using testing frameworks (Jest, Mocha) with TypeScript
 
-16. Best Practices
-   - Code organization and structure
-   - Type safety best practices
-   - Avoiding common TypeScript pitfalls
+16. Best Practices (Done)
+   + Code organization and structure
+   + Type safety best practices
+   + Avoiding common TypeScript pitfalls
 
-17. Advanced Topics (Optional)
-   - TypeScript with DDD (Domain-Driven Design)
-   - Advanced TypeScript with Functional Programming
+17. Advanced Topics (Optional) (Done)
+   + TypeScript with DDD (Domain-Driven Design)
+   + Advanced TypeScript with Functional Programming
