@@ -81,11 +81,11 @@
    + Class, method, property, and parameter decorators
    + Decorators in TypeScript with experimentalDecorators
 
-13. Working with External Libraries
-   - Using third-party libraries with TypeScript
-   - Type definitions (@types)
-   - Writing your own type definitions
-   - tsconfig.json configuration
+13. Working with External Libraries (Done)
+   + Using third-party libraries with TypeScript
+   + Type definitions (@types)
+   + Writing your own type definitions
+   + tsconfig.json configuration
 
 14. TypeScript in the Real World
    - Integrating TypeScript with build tools (Webpack, Babel)
