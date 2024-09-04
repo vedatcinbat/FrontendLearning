@@ -19,12 +19,12 @@
    + Optional and default parameters
    + Rest parameters
 
-4. Interfaces
-   - Defining interfaces
-   - Optional properties
-   - Readonly properties
-   - Extending interfaces
-   - Interface vs Type alias
+4. Interfaces (Done)
+   + Defining interfaces
+   + Optional properties
+   + Readonly properties
+   + Extending interfaces
+   + Interface vs Type alias
 
 5. Classes
    - Introduction to classes

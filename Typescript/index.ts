@@ -1,10 +1,10 @@
-interface Person {
+interface PersonTest {
     name: string;
     age: number;
     getName: () => void;
 }
 
-const person: Person = {
+const person: PersonTest = {
     name: 'John',
     age: 30,
     getName() {
