@@ -6,18 +6,18 @@
    + TypeScript vs JavaScript
    + Compiling TypeScript (tsc command)
 
-2. Basic Types
-   - Primitive types: string, number, boolean
-   - Arrays and Tuples
-   - Enums
-   - any, unknown, void, null, and undefined
-   - Type inference
+2. Basic Types (Done)
+   + Primitive types: string, number, boolean
+   + Arrays and Tuples
+   + Enums
+   + any, unknown, void, null, and undefined
+   + Type inference
 
-3. Type Annotations
-   - Variable type annotations
-   - Function type annotations (parameters and return types)
-   - Optional and default parameters
-   - Rest parameters
+3. Type Annotations (Done)
+   + Variable type annotations
+   + Function type annotations (parameters and return types)
+   + Optional and default parameters
+   + Rest parameters
 
 4. Interfaces
    - Defining interfaces
