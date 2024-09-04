@@ -1,14 +1,14 @@
 // Function Types
 
-function add(a: number, b: number): number {
+/* function add(a: number, b: number): number {
   return a + b;
-}
+} */
 
 
-let myFunc: (x: number, y: number) => number;
+/* let myFunc: (x: number, y: number) => number;
 myFunc = (x, y) => x + y;
 
-
+ */
 // Higher-Order Functions
 // A higher-order function is a function that either takes one or more functions as 
 // arguments, returns a function, or both
@@ -41,9 +41,9 @@ console.log(add('Hello', 'World')); // HelloWorld
 // Generic functions allow you to write functions that can work with and data type
 // Providing greater flexibility and reusability
 
-function identity<T>(arg: T): T {
+/* function identity<T>(arg: T): T {
     return arg;
-}
+} */
 
 
 function displayArr<T>(arr: T[]): T[] {
@@ -51,9 +51,9 @@ function displayArr<T>(arr: T[]): T[] {
 }
 
 
-
+/* 
 let output1 = identity<string>('Hello');
-let output2 = identity<number>(10);
+let output2 = identity<number>(10); */
 
 let arr1 = displayArr<number>([1, 2, 3, 4, 5]);
 let arr2 = displayArr<string>(['Hello', 'World']);
@@ -61,8 +61,8 @@ let arr2 = displayArr<string>(['Hello', 'World']);
 console.log(arr1); // [1, 2, 3, 4, 5]
 console.log(arr2); // ['Hello', 'World']
 
-console.log(output1); // Hello
-console.log(output2); // 10
+/* console.log(output1); // Hello
+console.log(output2); // 10 */
 
 // Using Multiple Type Parameters
 function merge<T, U>(obj1: T, obj2: U): T & U {

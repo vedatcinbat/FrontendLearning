@@ -51,12 +51,12 @@
    + Function overloads
    + Generic functions
 
-8. Generics
-   - Introduction to generics
-   - Generic functions
-   - Generic interfaces
-   - Generic classes
-   - Generic constraints
+8. Generics (Done)
+   + Introduction to generics
+   + Generic functions
+   + Generic interfaces
+   + Generic classes
+   + Generic constraints
 
 9. Modules
    - ES Modules vs CommonJS
