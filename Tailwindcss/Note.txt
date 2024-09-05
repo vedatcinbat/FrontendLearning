@@ -48,66 +48,12 @@ Tailwindcss In Large Projects (Done)
 + What are the best folder structure for Next.js Tailwindcss TypeScript project
 + Advanced Topics for building startup company with Tailwindcss
 
-Dropdown, Modals, Forms in Tailwindcs
-1. Building Dropdown
-2. Building Modals
-3. Building Forms
-
+Dropdown, Modals, Forms in Tailwindcs (Done)
++ Building Dropdown
++ Building Modals
++ Building Forms
++ ChakraUI | Basics - Components - Using with Tailwindcss
 
 
 
 #########################################################################################################
-
-
-*** Optional Topics (For Advanced Usage and Optimization) ***
---------------------------------------------------------------------------------------------
-
-1. Using TailwindCSS with Dark Mode
-2. Configuring Tailwind for dark mode
-3. Using the dark: variant to style components for dark mode
-4. Switching themes dynamically
-
-Transitions and Animations
-1. Transition utilities (transition, duration, ease, etc.)
-2. Creating custom animations with Tailwind's @keyframes
-3. Applying built-in animations and hover effects
-
-Using Tailwind Plugins
-1. Installing and configuring TailwindCSS plugins (e.g., typography, aspect-ratio)
-2. Creating custom plugins for project-specific utilities
-
-JIT (Just-In-Time) Mode
-1. Enabling and configuring JIT mode for Tailwind
-2. Benefits of JIT (faster development and smaller CSS bundle size)
-3. Using arbitrary values in Tailwind with JIT mode
-
-Advanced Customization
-1. Deeply customizing the theme (animations, shadows, spacing)
-2. Using important: true to override styles
-3. Safelisting classes for purging
-
-CSS Grid with TailwindCSS
-1. Creating grid layouts with Tailwind’s grid utilities
-2. Understanding grid-cols and grid-rows
-3. Building complex responsive grids
-
-Handling Complex Components
-1. Building reusable UI components like modals, dropdowns, and carousels
-2. Structuring TailwindCSS for scalable React components
-3. Using @apply to reduce class duplication in large components
-
-Tailwind and CSS-in-JS
-1. Combining TailwindCSS with CSS-in-JS libraries like styled-components or Emotion
-2. Pros and cons of combining Tailwind with CSS-in-JS in Next.js projects
-
-Deploying TailwindCSS Projects
-1. Optimizing TailwindCSS for production (minimizing CSS size)
-2. Using tools like Vercel or Netlify to deploy Next.js projects
-
-Best Practices for Large Projects
-1. Maintaining a clean TailwindCSS structure in large projects
-2. Reducing duplication and complexity in classes
-3. Using Tailwind with design systems and component libraries
-
-
-********************************************************************************************
