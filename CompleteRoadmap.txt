@@ -1,12 +1,12 @@
 **** Technologies That I Will Learn ****
 ** Frontend **
-1. TypeScript
-2. TailwindCSS
-3. Reactjs (Advanced)
+1. TypeScript (Done)
+2. TailwindCSS (Done)
+3. Reactjs - Advanced
 4. Redux | Zustand
 5. Nextjs
-6. Framer Motion
-7. Jest | Cypress
+6. Jest | Cypress
+7. MaterialUI | ChakraUI
 
 ** Mobile **
 1. React Native
