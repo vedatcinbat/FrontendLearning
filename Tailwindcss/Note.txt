@@ -12,15 +12,15 @@ Setting Up TailwindCSS in Next.js (Done)
 + Using @tailwind directives in global.css
 + Purging unused CSS for production
 
-Core Concepts
-1. Utility-first CSS (Small, composable classes)
-2. Responsive design with Tailwind's breakpoints
-3. Mobile-first approach
+Core Concepts (Done)
++ Utility-first CSS (Small, composable classes)
++ Responsive design with Tailwind's breakpoints
++ Mobile-first approach
 
-TailwindCSS Configuration
-1. Customizing the default theme (tailwind.config.js)
-2. Adding custom colors, fonts, spacing, and breakpoints
-3. Extending Tailwind with plugins
+TailwindCSS Configuration (Done)
++ Customizing the default theme (tailwind.config.js)
++ Adding custom colors, fonts, spacing, and breakpoints
++ Extending Tailwind with plugins
 
 Typography and Layout
 1. Typography utilities (font size, font weight, line-height, etc.)
