@@ -5,7 +5,7 @@
 3. Reactjs (Advanced)
 4. Redux | Zustand
 5. Nextjs
-6. Framer Motion
+6. MaterialUI | ChakraUI
 7. Jest | Cypress
 
 ** Mobile **
