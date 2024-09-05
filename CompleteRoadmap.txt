@@ -5,8 +5,8 @@
 3. Reactjs - Advanced
 4. Redux | Zustand
 5. Nextjs
-6. Jest | Cypress
-7. MaterialUI | ChakraUI
+6. MaterialUI | ChakraUI
+7. Jest | Cypress
 
 ** Mobile **
 1. React Native
