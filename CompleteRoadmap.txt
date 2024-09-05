@@ -19,7 +19,7 @@
 4. EF Core | Sequelize | TypeORM | Mongoose
 5. REST | GraphQL | gRPC | tRPC
 6. .NET Core Identity | JWT | 0Auth2 | Passport.js | SSO
-7. Docker 
+7. Docker
 8. Microservice Architecture | Service Decomposition | Communication Patterns (REST | gRPC | Message Queues) 
 9. API Development | Service Communication | RabbitMQ | Service Mesh | Service Discovery and Load Balancing | Consul-Eureka
 10. Database per Microservice | Data Partioning and Sharding | Polyglot Persistance | Event Sourcing | CQRS | Saga Patterns
