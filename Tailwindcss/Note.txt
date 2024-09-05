@@ -33,23 +33,14 @@ Styling in React Components (Done)
 + Conditional classes in React with classnames
 + Dynamic styling based on state or props
 
-Hover, Focus, and Other States
-1. Using hover, focus, and active states
-2. Styling based on other states like group-hover, focus-within, and focus-visible
+Hover, Focus, and Other States (Done)
++ Using hover, focus, and active states
++ Styling based on other states like group-hover, focus-within, and focus-visible
 
-Building Responsive Components
-1. Applying responsive utilities (sm:, md:, etc.)
-2. Building responsive layouts
-3. Making components mobile-friendly
-
-Handling Forms
-1. Styling form inputs, buttons, checkboxes, and radio buttons
-2. Focus and validation states for form elements
-
-Customizing TailwindCSS for a Project
-1. Customizing TailwindCSS theme for a brand-specific design
-2. Adding custom utility classes
-3. Using Tailwind's @apply directive for reusable styles
+Flexbox - Grid
+1. Flexbox Introduction
+2. Grid Introduction
+3. Example Flexbox and Grid in React Components
 
 
 
