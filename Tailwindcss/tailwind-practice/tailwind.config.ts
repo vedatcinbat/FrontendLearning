@@ -39,6 +39,7 @@ const config: Config = {
   },
   plugins: [
     //require('@tailwindcss/forms')
+    // @ts-ignore
     plugin(({addUtilities}) => {
       const newUtilities = {
         '.skew-10deg': {

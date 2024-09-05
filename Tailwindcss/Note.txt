@@ -22,16 +22,16 @@ TailwindCSS Configuration (Done)
 + Adding custom colors, fonts, spacing, and breakpoints
 + Extending Tailwind with plugins
 
-Typography and Layout
-1. Typography utilities (font size, font weight, line-height, etc.)
-2. Flexbox and Grid utilities for layout
-3. Spacing utilities (margin, padding)
-4. Text alignment and text decoration utilities
+Typography and Layout (Done)
++ Typography utilities (font size, font weight, line-height, etc.)
++ Flexbox and Grid utilities for layout
++ Spacing utilities (margin, padding)
++ Text alignment and text decoration utilities
 
-Styling in React Components
-1. Using TailwindCSS classes directly in JSX
-2. Conditional classes in React with classnames
-3. Dynamic styling based on state or props
+Styling in React Components (Done)
++ Using TailwindCSS classes directly in JSX
++ Conditional classes in React with classnames
++ Dynamic styling based on state or props
 
 Hover, Focus, and Other States
 1. Using hover, focus, and active states
