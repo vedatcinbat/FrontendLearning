@@ -37,10 +37,22 @@ Hover, Focus, and Other States (Done)
 + Using hover, focus, and active states
 + Styling based on other states like group-hover, focus-within, and focus-visible
 
-Flexbox - Grid
-1. Flexbox Introduction
-2. Grid Introduction
-3. Example Flexbox and Grid in React Components
+Flexbox - Grid (Done)
++ Flexbox Introduction
++ Grid Introduction
++ Example Flexbox and Grid in React Components
+
+Tailwindcss In Large Projects (Done)
++ How layout should build
++ How components and pages should split
++ What are the best folder structure for Next.js Tailwindcss TypeScript project
++ Advanced Topics for building startup company with Tailwindcss
+
+Dropdown, Modals, Forms in Tailwindcs
+1. Building Dropdown
+2. Building Modals
+3. Building Forms
+
 
 
 
