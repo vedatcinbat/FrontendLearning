@@ -1,3 +1,10 @@
+# All
+# .gitignore
+
+# Ignore all README files except the root README.md
+README.md
+*/**/README.md
+############################################
 # TYPESCRIPT
 # Ignore compiled JavaScript files
 Typescript/**/*.js
@@ -20,5 +27,23 @@ Typescript/**/*.log
 # Ignore coverage reports
 Typescript/coverage/
 
+############################################
+# ReactjsAdvanced
+# .gitignore
+
+# Ignore node_modules directory
+ReactjsAdvanced/my-react-learn-app/node_modules/
+
+# Ignore build output directory
+ReactjsAdvanced/my-react-learn-app/build/
+
+# Ignore coverage reports
+ReactjsAdvanced/my-react-learn-app/coverage/
+
+# Ignore .env files
+ReactjsAdvanced/my-react-learn-app/.env
+
+# Ignore .DS_Store files
+ReactjsAdvanced/my-react-learn-app/.DS_Store
 
 ############################################
