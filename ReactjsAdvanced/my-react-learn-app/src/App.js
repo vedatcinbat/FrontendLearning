@@ -1,19 +1,25 @@
 import './App.css';
-import Welcome from './components/Welcome';
-import UserStatus from './components/UserStatus';
-import Notification from './components/Notification';
-import UserProfile from './components/UserProfile';
-import ItemList from './components/ItemList';
-import UserList from './components/UserList';
-import ControlledForm from './components/ControlledForm';
-import UncontrolledForm from './components/UncontrolledForm';
-import MultiInputForm from './components/MultiInputForm';
-import FormWithObjectState from './components/FormWithObjectState';
-import SubmitForm from './components/SubmitForm';
-import Counter from './components/Counter';
-import Timer from './components/Timer';
-import WindowResizer from './components/WindowResizer';
-import FetchData from './components/FetchData';
+
+// Basics Components
+import Welcome from './components/Basics/Welcome';
+import UserStatus from './components/Basics/UserStatus';
+import Notification from './components/Basics/Notification';
+import UserProfile from './components/Basics/UserProfile';
+import ItemList from './components/Basics/ItemList';
+import UserList from './components/Basics/UserList';
+import ControlledForm from './components/Basics/ControlledForm';
+import UncontrolledForm from './components/Basics/UncontrolledForm';
+import MultiInputForm from './components/Basics/MultiInputForm';
+import FormWithObjectState from './components/Basics/FormWithObjectState';
+import SubmitForm from './components/Basics/SubmitForm';
+import Counter from './components/Basics/Counter';
+import Timer from './components/Basics/Timer';
+import WindowResizer from './components/Basics/WindowResizer';
+import FetchData from './components/Basics/FetchData';
+
+// Intermediate Components
+
+
 
 function App() {
   return (
