@@ -32,29 +32,29 @@ Conditional Rendering (Done)
 + Using ternary operators for conditionals
 + Short-circuit evaluation
 
-Lists and Keys
-- Rendering lists in React with map()
-- Understanding the significance of keys in lists
-- Best practices for using keys
+Lists and Keys (Done)
++ Rendering lists in React with map()
++ Understanding the significance of keys in lists
++ Best practices for using keys
 
-Forms and Input Handling
-- Controlled vs uncontrolled components in forms
-- Managing form data with state
-- Handling form submission
+Forms and Input Handling (Done)
++ Controlled vs uncontrolled components in forms
++ Managing form data with state
++ Handling form submission
 
-Component Lifecycle (Basic Overview)
-- Introduction to component lifecycle in functional components
-- useEffect Hook and side effects
-- Cleanup functions in useEffect
+Component Lifecycle (Basic Overview) (Done)
++ Introduction to component lifecycle in functional components
++ useEffect Hook and side effects
++ Cleanup functions in useEffect
 
-Basic Hooks
-- useState and useEffect for state and side effects
-- Rules of Hooks (only use at the top level, call hooks in the same order)
+Basic Hooks (Done)
++ useState and useEffect for state and side effects
++ Rules of Hooks (only use at the top level, call hooks in the same order)
 
-Styling in React
-- Inline styles vs. external stylesheets in React
-- Using CSS modules with React
-- Introduction to TailwindCSS and utility-first CSS
+Styling in React (Done)
++ Inline styles vs. external stylesheets in React
++ Using CSS modules with React
++ Introduction to TailwindCSS and utility-first CSS
 
 ********************************************************************************************
 *** Intermediate Topics (Building Interactive and Efficient React Apps) ***
