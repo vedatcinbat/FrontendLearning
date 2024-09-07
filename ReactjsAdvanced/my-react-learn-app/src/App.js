@@ -1,5 +1,5 @@
 import './App.css';
-
+import React, { useState } from 'react';
 // Basics Components
 import Welcome from './components/Basics/Welcome';
 import UserStatus from './components/Basics/UserStatus';
@@ -27,8 +27,16 @@ import Profile from './components/Intermediate/Profile';
 import Settings from './components/Intermediate/Settings';
 import UserProvider from './providers/UserProvider';
 import Login from './components/Intermediate/Login';
+import FocusInput from './components/Intermediate/FocusInput';
+import CounterRef from './components/Intermediate/CounterRef';
+import ExpensiveCalculation from './components/Intermediate/ExpensiveCalculation';
+import DataComponent from './components/Intermediate/DataComponent';
+import GetUsersData from './components/Intermediate/GetUsersData';
 
 function App() {
+
+  const [count, setCount] = useState(0);
+  const [number, setNumber] = useState(2);
 
   {/* Basics Components
       return (
@@ -66,7 +74,8 @@ function App() {
       </BrowserRouter>
     )*/}
 
-    return (
+  {/*
+      return (
       <BrowserRouter>
         <Navbar />
         <Routes>
@@ -79,7 +88,33 @@ function App() {
           </Route>
         </Routes>
       </BrowserRouter>
-    );
+    ); */}
+  {/* 
+    return (
+    <>
+      <FocusInput />
+      <CounterRef />
+      <div>
+        <button onClick={() => setCount(count + 1)}>Increment Counter</button>
+        <input
+          type="number"
+          value={number}
+          onChange={(e) => setNumber(parseInt(e.target.value))}
+        />
+        <ExpensiveCalculation number={number} />
+        <p>Counter: {count}</p>
+      </div>
+    </>
+  )*/
+  }
+    return (
+      <>
+        {/* <DataComponent /> */}
+        <GetUsersData />
+      </>
+    )
+  
+
 }
 
 export default App;

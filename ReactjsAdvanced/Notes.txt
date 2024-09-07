@@ -60,39 +60,39 @@ Styling in React (Done)
 *** Intermediate Topics (Building Interactive and Efficient React Apps) ***
 --------------------------------------------------------------------------------------------
 
-Context API
-- What is the Context API?
-- Using context to avoid prop drilling
-- Creating a context provider and consumer
+Context API (Done)
++ What is the Context API?
++ Using context to avoid prop drilling
++ Creating a context provider and consumer
 
 React Router (Done)
 + Setting up React Router for navigation
 + Using the BrowserRouter, Route, and Link components
 + Implementing nested routes
 
-Error Boundaries
-- What are error boundaries and when to use them?
-- Handling component errors with error boundaries
+Error Boundaries (Done)
++ What are error boundaries and when to use them?
++ Handling component errors with error boundaries
 
-Refs and useRef Hook
-- What are refs in React?
-- Manipulating DOM elements directly using refs
-- Persisting values between renders using useRef
+Refs and useRef Hook (Done)
++ What are refs in React?
++ Manipulating DOM elements directly using refs
++ Persisting values between renders using useRef
 
-Memoization
-- Improving performance with useMemo and useCallback
-- When to use memoization in React applications
-- React.memo for functional components
+Memoization (Done)
++ Improving performance with useMemo and useCallback
++ When to use memoization in React applications
++ React.memo for functional components
 
-Custom Hooks
-- What are custom hooks and why use them?
-- Creating reusable logic with custom hooks
-- Example use cases for custom hooks
+Custom Hooks (Done)
++ What are custom hooks and why use them?
++ Creating reusable logic with custom hooks
++ Example use cases for custom hooks
 
-Component Optimization
-- Using React.memo for preventing unnecessary renders
-- Using PureComponent in class components
-- Common performance pitfalls in React apps
+Component Optimization (Done)
++ Using React.memo for preventing unnecessary renders
++ Using PureComponent in class components
++ Common performance pitfalls in React apps
 
 ********************************************************************************************
 *** Advanced Topics (Optimizing and Mastering React) ***
