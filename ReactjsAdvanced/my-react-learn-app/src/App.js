@@ -22,9 +22,11 @@ import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
 import Home from './components/Intermediate/Home';
 import About from './components/Intermediate/About';
 import Navbar from './components/Intermediate/Navbar';
-import Dashborad from './components/Intermediate/Dashboard';
+import Dashboard from './components/Intermediate/Dashboard';
 import Profile from './components/Intermediate/Profile';
 import Settings from './components/Intermediate/Settings';
+import UserProvider from './providers/UserProvider';
+import Login from './components/Intermediate/Login';
 
 function App() {
 
@@ -66,15 +68,18 @@ function App() {
 
     return (
       <BrowserRouter>
+        <Navbar />
         <Routes>
-          <Route path="dashboard" element={<Dashborad />}>
-            {/* Nested Routes */}
-            <Route path="profile" element={<Profile />} />
+          <Route path="/" element={<Home />} />
+          <Route path="/about" element={<About />} />
+          <Route path="/login" element={<Login />} />
+          <Route path="dashboard" element={<Dashboard />}>
+            <Route path="profile" element={<Profile />}/>
             <Route path="settings" element={<Settings />} />
           </Route>
         </Routes>
       </BrowserRouter>
-    )
+    );
 }
 
 export default App;
