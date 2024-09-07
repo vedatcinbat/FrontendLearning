@@ -1,4 +1,5 @@
 import './App.css';
+import './styles.css'
 import React, { useState } from 'react';
 // Basics Components
 import Welcome from './components/Basics/Welcome';
@@ -34,6 +35,8 @@ import DataComponent from './components/Intermediate/DataComponent';
 import GetUsersData from './components/Intermediate/GetUsersData';
 import CounterReducer from './components/Advanced/CounterReducer';
 import AccordionApp from './components/Advanced/CompoundComponents/AccordionApp';
+import Modal from './components/Advanced/Modal';
+import Dropdown from './components/Advanced/Dropdown';
 
 function App() {
 
@@ -109,15 +112,46 @@ function App() {
     </>
   )*/
   }
-    return (
-      <>
-        {/* <DataComponent /> */}
-        {/* <GetUsersData /> */}
-        {/* <CounterReducer /> */}
-        <AccordionApp />
-      </>
-    )
-  
+
+  const [isModalOpen, setModalOpen] = useState(false);
+  const [isDropdownOpen, setDropdownOpen] = useState(false);
+  return (
+    <>
+      {/* <DataComponent /> */}
+      {/* <GetUsersData /> */}
+      {/* <CounterReducer /> */}
+      {/* <AccordionApp /> */}
+      <div>
+        <h1>React Advanced</h1>
+        {/* <Modal>
+            <h2>Modal Content</h2>
+            <p>This is the modal content</p>
+          </Modal>
+          <Modal>
+            <h2>Modal Content 2</h2>
+            <p>This is the second modal content</p>
+          </Modal> */}
+        <div className="app">
+          <h1>Click the button to open the modal</h1>
+          <button onClick={() => setModalOpen(true)}>Open Modal</button>
+
+          <Modal isOpen={isModalOpen} onClose={() => setModalOpen(false)}>
+            <h2>This is a modal</h2>
+            <p>Modals allow you to render content outside the main DOM hierarchy.</p>
+          </Modal>
+
+          <br />
+
+          <h1>Dropdown Example</h1>
+          <button onClick={() => setDropdownOpen(!isDropdownOpen)}>
+            Toggle Dropdown
+          </button>
+          <Dropdown isOpen={isDropdownOpen} toggleDropdown={setDropdownOpen} />
+        </div>
+      </div>
+    </>
+  )
+
 
 }
 

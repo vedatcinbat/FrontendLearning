@@ -122,20 +122,20 @@ Advanced Hooks (Done)
 + useReducer for complex state management
 + useLayoutEffect for layout-related side effects
 
-Compound Components Pattern
-- Building components with compound design
-- Creating flexible and reusable UI components
-- Managing state between multiple subcomponents
+Compound Components Pattern (Done)
++ Building components with compound design
++ Creating flexible and reusable UI components
++ Managing state between multiple subcomponents
 
-React Fiber and Concurrent Mode
-- Introduction to React Fiber architecture
-- How concurrent mode improves app performance
-- Suspense and asynchronous rendering in concurrent mode
+React Fiber and Concurrent Mode (Done)
++ Introduction to React Fiber architecture
++ How concurrent mode improves app performance
++ Suspense and asynchronous rendering in concurrent mode
 
-Portals and Handling Modals
-- Creating portals for rendering components outside the root DOM element
-- Using portals for building modals, dropdowns, and tooltips
-- Managing accessibility for modals
+Portals and Handling Modals (Done)
++ Creating portals for rendering components outside the root DOM element
++ Using portals for building modals, dropdowns, and tooltips
++ Managing accessibility for modals
 
 Testing in React
 - Introduction to testing with Jest and React Testing Library
