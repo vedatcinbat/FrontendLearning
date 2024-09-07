@@ -108,30 +108,19 @@ Higher-Order Components (HOC) (Done)
 + Creating reusable component logic with HOCs
 + Real-world use cases for HOCs in React
 
-Render Props Pattern
-- What is the render props pattern?
-- Passing functions as props to dynamically render content
-- Use cases for render props
+React Lifecycle Methods (Detailed) (Done)
++ Lifecycle methods in class components (constructor, componentDidMount, etc.)
++ Equivalent hooks for lifecycle methods in functional components
++ Managing complex component lifecycle scenarios
 
-React Performance Optimization
-- Code splitting with React.lazy and Suspense
-- Optimizing app load time with lazy loading
-- Best practices for performance optimization in React apps
+Reconciliation in React (Done)
++ How React’s reconciliation algorithm works
++ React Fiber architecture
++ Best practices for updating the DOM efficiently
 
-React Lifecycle Methods (Detailed)
-- Lifecycle methods in class components (constructor, componentDidMount, etc.)
-- Equivalent hooks for lifecycle methods in functional components
-- Managing complex component lifecycle scenarios
-
-Reconciliation in React
-- How React’s reconciliation algorithm works
-- React Fiber architecture
-- Best practices for updating the DOM efficiently
-
-Advanced Hooks
-- useReducer for complex state management
-- useLayoutEffect for layout-related side effects
-- useImperativeHandle for exposing imperative methods to parent components
+Advanced Hooks (Done)
++ useReducer for complex state management
++ useLayoutEffect for layout-related side effects
 
 Compound Components Pattern
 - Building components with compound design

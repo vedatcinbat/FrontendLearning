@@ -32,6 +32,8 @@ import CounterRef from './components/Intermediate/CounterRef';
 import ExpensiveCalculation from './components/Intermediate/ExpensiveCalculation';
 import DataComponent from './components/Intermediate/DataComponent';
 import GetUsersData from './components/Intermediate/GetUsersData';
+import CounterReducer from './components/Advanced/CounterReducer';
+import AccordionApp from './components/Advanced/CompoundComponents/AccordionApp';
 
 function App() {
 
@@ -111,6 +113,8 @@ function App() {
       <>
         {/* <DataComponent /> */}
         {/* <GetUsersData /> */}
+        {/* <CounterReducer /> */}
+        <AccordionApp />
       </>
     )
   
