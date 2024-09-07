@@ -65,10 +65,10 @@ Context API
 - Using context to avoid prop drilling
 - Creating a context provider and consumer
 
-React Router
-- Setting up React Router for navigation
-- Using the BrowserRouter, Route, and Link components
-- Implementing nested routes
+React Router (Done)
++ Setting up React Router for navigation
++ Using the BrowserRouter, Route, and Link components
++ Implementing nested routes
 
 Error Boundaries
 - What are error boundaries and when to use them?
