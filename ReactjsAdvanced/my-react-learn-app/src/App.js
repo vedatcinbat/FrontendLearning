@@ -110,7 +110,7 @@ function App() {
     return (
       <>
         {/* <DataComponent /> */}
-        <GetUsersData />
+        {/* <GetUsersData /> */}
       </>
     )
   
