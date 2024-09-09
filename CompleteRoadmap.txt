@@ -2,7 +2,7 @@
 ** Frontend **
 1. TypeScript (Done)
 2. TailwindCSS (Done)
-3. Reactjs - Advanced
+3. Reactjs - Advanced (Done)
 4. Redux | Zustand
 5. Nextjs
 6. MaterialUI | ChakraUI

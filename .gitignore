@@ -47,3 +47,18 @@ ReactjsAdvanced/my-react-learn-app/.env
 ReactjsAdvanced/my-react-learn-app/.DS_Store
 
 ############################################
+
+# Redux
+# .gitignore
+
+# Ignore node_modules directory
+Redux/redux-learn/node_modules/
+
+# Ignore build output directory
+Redux/redux-learn/build/
+
+# Ignore .d.ts files
+Redux/**/*.d.ts
+
+# Ignore node_modules directory
+
