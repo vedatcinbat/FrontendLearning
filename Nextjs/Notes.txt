@@ -1,0 +1,146 @@
+================================================================
+Beginner Topics:
+================================================================
+
+Setting Up a Next.js Project: (Done)
+-----------------------------
++ Installing Node.js and npm.
++ Creating a new Next.js project using create-next-app.
++ Running the development server.
++ Project structure overview.
+
+Introduction to Next.js: (Done)
+------------------------
++ What is Next.js, and why use it?
++ Pages and file-based routing system.
++ Basic folder structure (pages, public, etc.).
++ Difference between React and Next.js.
+
+Routing in Next.js:
+-------------------
+- Pages-based routing.
+- Dynamic routes and parameters.
+- Nested routes.
+- Shallow routing.
+
+Basic Rendering Methods:
+------------------------
+- Server-Side Rendering (SSR) with getServerSideProps.
+- Static Site Generation (SSG) with getStaticProps and getStaticPaths.
+
+Linking Pages:
+--------------
+- Using the Link component for navigation.
+- Client-side navigation.
+- Prefetching links for performance optimization.
+
+Styling in Next.js:
+-------------------
+- CSS Modules.
+- Global styles (_app.js).
+- Basic TailwindCSS integration.
+
+TypeScript with Next.js:
+------------------------
+- Basic TypeScript setup in Next.js.
+- Type-checking components and props.
+- Defining types for API responses.
+
+
+================================================================
+Intermediate Topics:
+================================================================
+
+Advanced Routing:
+-----------------
+- API routes: Creating backend routes in the /api folder.
+- Dynamic routing and catch-all routes ([...slug].js).
+
+Data Fetching Methods:
+----------------------
+- Understanding the difference between getServerSideProps, getStaticProps, and getStaticPaths.
+- Incremental Static Regeneration (ISR).
+
+API Handling with Next.js:
+--------------------------
+- Building REST APIs with Next.js.
+- Fetching data from APIs using fetch or Axios.
+- Using SWR (Stale-While-Revalidate) for data fetching.
+
+State Management with Redux:
+----------------------------
+- Setting up Redux Toolkit in a Next.js app.
+- Handling global state with Redux and useSelector / useDispatch.
+- Using Redux Thunk for async actions.
+
+Environment Variables:
+----------------------
+- Using .env.local for environment variables.
+- Security considerations with environment variables.
+
+SEO Optimization:
+-----------------
+- Meta tags and Open Graph tags with next/head.
+- Dynamic metadata for SEO.
+- Canonical URLs.
+
+Routing with NextAuth:
+----------------------
+- Set up authentication with NextAuth.js.
+- Protected routes and session handling.
+
+
+================================================================
+Advanced Topics:
+================================================================
+
+Middleware and API Handling:
+----------------------------
+- Creating and using custom middleware for API routes.
+- Error handling in APIs.
+- API rate limiting, authentication, and authorization.
+
+Optimizing Performance:
+-----------------------
+- Image optimization using next/image.
+- Static Optimization (Automated SSG and Hybrid SSG).
+- Web Vitals (LCP, FID, CLS) and performance analytics with Next.js.
+
+Internationalization (i18n):
+----------------------------
+- Setting up multi-language support with Next.js.
+- Localization of URLs, content, and routing.
+
+Custom Server:
+--------------
+- Setting up a custom Next.js server (e.g., with Node.js/Express.js).
+- Handling requests and responses manually.
+
+Advanced TailwindCSS:
+---------------------
+- Customizing the Tailwind theme.
+- Purging unused styles for production.
+- Using plugins and directives in Tailwind.
+
+Real-World Deployment:
+----------------------
+- Deploying Next.js apps on Vercel, AWS, or DigitalOcean.
+- CI/CD pipelines for deploying Next.js apps.
+- Using Docker for Next.js deployment.
+
+Building Custom Hooks and Components:
+-------------------------------------
+- Reusable UI components with TailwindCSS.
+- Building custom React hooks for fetching data and handling state.
+
+Testing Next.js Apps:
+---------------------
+- Unit testing with Jest.
+- End-to-end testing with Cypress.
+- Testing Next.js APIs and server-side logic.
+
+GraphQL Integration:
+--------------------
+- Setting up GraphQL with Next.js.
+- Querying data with Apollo Client.
+- Using GraphQL code generator for TypeScript support.

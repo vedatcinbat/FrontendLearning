@@ -67,3 +67,13 @@ Redux/zustand-app/.env
 Redux/zustand-app/.DS_Store
 Redux/zustand-app/build/
 
+############################################
+# Next.js
+Nextjs/my-next-app/node_modules
+Nextjs/my-next-app/.env
+Nextjs/my-next-app/.DS_Store
+Nextjs/my-next-app/build/
+Nextjs/my-next-app/.next/
+Nextjs/my-next-app/out/
+
+
