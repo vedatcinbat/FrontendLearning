@@ -8,10 +8,6 @@
 6. MaterialUI | ChakraUI
 7. Jest | Cypress
 
-** Mobile **
-1. React Native
-2. React Native Paper
-
 ** Backend **
 1. C# | Javascript | TypeScript
 2. ASP.NET Core | Nodejs | Expressjs | Nestjs | Socketio

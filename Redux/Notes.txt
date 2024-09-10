@@ -35,9 +35,9 @@
 
 Intermediate Topics
 
-1. Async Logic with Redux
-   - Understanding the need for async actions (e.g., API calls)
-   - Thunks and async actions using **Redux Thunk**
+1. Async Logic with Redux (Done)
+   + Understanding the need for async actions (e.g., API calls)
+   + Thunks and async actions using **Redux Thunk**
 
 2. Middleware in Redux
    - What is middleware in Redux?
@@ -112,11 +112,3 @@ Advanced Topics
    - Large-scale application architecture with Redux
    - Integrating Redux with other libraries (e.g., React Router)
    - Best practices for managing global vs local state in real-world apps
-"""
-
-# Save this to a file
-file_path = '/mnt/data/redux_learning_notes.txt'
-with open(file_path, 'w') as f:
-    f.write(redux_notes)
-
-file_path
