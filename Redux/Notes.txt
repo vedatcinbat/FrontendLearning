@@ -39,76 +39,50 @@ Intermediate Topics
    + Understanding the need for async actions (e.g., API calls)
    + Thunks and async actions using **Redux Thunk**
 
-2. Middleware in Redux
-   - What is middleware in Redux?
-   - Using **Redux Thunk** for asynchronous actions
-   - Creating custom middleware
+2. Middleware in Redux (Done)
+   + What is middleware in Redux?
+   + Using **Redux Thunk** for asynchronous actions
+   + Creating custom middleware
 
-3. Redux DevTools
-   - Setting up and using **Redux DevTools** for debugging
-   - Time-travel debugging with Redux
+3. Redux DevTools (Done)
+   + Setting up and using **Redux DevTools** for debugging
+   + Time-travel debugging with Redux
 
-4. Redux Action Creators
-   - Synchronous vs. asynchronous action creators
-   - Handling async data flows (e.g., fetching data from APIs)
+4. Redux Action Creators (Done)
+   + Synchronous vs. asynchronous action creators
+   + Handling async data flows (e.g., fetching data from APIs)
 
-5. Handling Complex State
-   - Managing deeply nested state with Redux
-   - Normalizing state in Redux
+5. Handling Complex State (Done)
+   + Managing deeply nested state with Redux
+   + Normalizing state in Redux
 
-6. Handling Side Effects
+6. Handling Side Effects (Done)
    - What are side effects in Redux?
    - Using **Redux Saga** to handle side effects
    - Redux Saga vs. Redux Thunk
 
-7. Redux Toolkit
-   - What is Redux Toolkit?
-   - Setting up a store using Redux Toolkit
-   - `createSlice` and `createAsyncThunk`
-   - Using Redux Toolkit's `configureStore` and `createReducer`
-
-8. Immutable Updates with Redux
-   - Understanding immutability in Redux
-   - Using libraries like **Immer** to simplify immutable updates
+7. Immutable Updates with Redux (Done)
+   + Understanding immutability in Redux
+   + Using libraries like **Immer** to simplify immutable updates
 
 ---
 
 Advanced Topics
 
-1. Redux Architecture and Best Practices
-   - Structuring large Redux applications (ducks pattern, feature-based architecture)
-   - Best practices for splitting reducers and actions
-   - Using **Redux Toolkit** for scalable state management
+1. Redux Architecture and Best Practices (Done)
+   + Structuring large Redux applications (ducks pattern, feature-based architecture)
+   + Best practices for splitting reducers and actions
+   + Using **Redux Toolkit** for scalable state management
+ 
+2. Redux Performance Optimization (Done)
+   + Optimizing Redux for performance
+   + Avoiding unnecessary re-renders in Redux with **memoization** (e.g., `reselect`)
+   + Using `React.memo` and `useMemo` with Redux state
 
-2. Redux Performance Optimization
-   - Optimizing Redux for performance
-   - Avoiding unnecessary re-renders in Redux with **memoization** (e.g., `reselect`)
-   - Using `React.memo` and `useMemo` with Redux state
+3. Selectors and Memoization (Done)
+   + Creating efficient selectors with **Reselect**
+   + Memoizing selectors to improve performance
 
-3. Selectors and Memoization
-   - Creating efficient selectors with **Reselect**
-   - Memoizing selectors to improve performance
-
-4. Redux Persist
-   - Persisting Redux state to local storage
-   - Hydrating the Redux store from persisted state
-
-5. Advanced Async Handling with Redux-Saga
-   - Advanced patterns for managing side effects with Redux-Saga
-   - Handling complex async flows (e.g., race conditions, retry logic)
-   - Error handling in async flows
-
-6. TypeScript with Redux
-   - Using **TypeScript** with Redux
-   - Type-safe reducers, actions, and stores
-   - Integrating Redux Toolkit with TypeScript
-
-7. Testing Redux Applications
-   - Unit testing reducers, actions, and selectors
-   - Integration testing for Redux logic
-   - Mocking async actions in tests
-
-8. Redux in Real-World Applications
-   - Large-scale application architecture with Redux
-   - Integrating Redux with other libraries (e.g., React Router)
-   - Best practices for managing global vs local state in real-world apps
+4. Redux Persist (Done)
+   + Persisting Redux state to local storage
+   + Hydrating the Redux store from persisted state
