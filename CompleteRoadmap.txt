@@ -3,7 +3,7 @@
 1. TypeScript (Done)
 2. TailwindCSS (Done)
 3. Reactjs - Advanced (Done)
-4. Redux | Zustand
+4. Redux | Zustand (Done)
 5. Nextjs
 6. MaterialUI | ChakraUI
 7. Jest | Cypress
