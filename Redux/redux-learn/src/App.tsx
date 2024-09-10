@@ -1,7 +1,7 @@
 import './App.css'
-import Dashboard from './components/Dashboard'
+/* import Dashboard from './components/Dashboard'
 import Login from './components/Login'
-import Counter from './components/Counter'
+import Counter from './components/Counter' */
 import Users from './components/Users'
 
 const App = () => {

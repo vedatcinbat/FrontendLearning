@@ -86,3 +86,45 @@ Advanced Topics
 4. Redux Persist (Done)
    + Persisting Redux state to local storage
    + Hydrating the Redux store from persisted state
+
+
+***Zustand***
+
+1. Introduction to Zustand (Done)
+   + What is Zustand?
+   + How Zustand differs from Redux or other state management libraries.
+   + Key features of Zustand (e.g., minimal API, no boilerplate, react hooks-based).
+
+2. Setting Up Zustand (Done)
+   + Installing Zustand.
+   + Creating your first store with Zustand.
+   + Basic syntax for defining and using a store.
+
+3. Creating and Managing State (Done)
+   + Creating state with Zustand.
+   + Accessing state in components.
+   + Updating state (synchronous updates).
+   + Handling multiple state slices (managing different aspects of the state separately).
+
+4. Actions and Methods in Zustand (Done)
+   + Defining actions (methods) to update state.
+   + Using methods for state manipulation (increment, decrement, etc.).
+   + Asynchronous actions in Zustand (e.g., using async/await).
+
+5. Selectors in Zustand (Done)
+   + Using selectors to access parts of the state.
+   + Optimizing performance by creating custom selectors for components.
+
+6. Middleware in Zustand (Done)
+   + Introduction to middleware in Zustand.
+   + Using middleware for logging, persistence, or devtools.
+   + Common middleware options (e.g., Zustand's built-in middleware).
+
+7. Async State Management with Zustand (Done)
+   + Managing asynchronous state (API calls, async operations).
+   + Handling loading, success, and error states.
+
+8. Best Practices with Zustand (Done)
+   + Organizing large Zustand stores.
+   + Creating modular and scalable stores.
+   + Zustand performance optimizations.

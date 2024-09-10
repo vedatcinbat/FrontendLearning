@@ -60,5 +60,10 @@ Redux/redux-learn/build/
 # Ignore .d.ts files
 Redux/**/*.d.ts
 
-# Ignore node_modules directory
+############################################
+# Zustand 
+Redux/zustand-app/node_modules/
+Redux/zustand-app/.env
+Redux/zustand-app/.DS_Store
+Redux/zustand-app/build/
 
