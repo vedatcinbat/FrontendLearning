@@ -75,6 +75,10 @@ Nextjs/my-next-app/.DS_Store
 Nextjs/my-next-app/build/
 Nextjs/my-next-app/.next/
 Nextjs/my-next-app/out/
+Nextjs/my-next-app/.env.local
+Nextjs/my-next-app/.env.dev
+Nextjs/my-next-app/.env.prod
+
 
 ############################################
 # Expressjs App 

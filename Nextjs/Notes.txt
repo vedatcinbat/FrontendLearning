@@ -61,33 +61,22 @@ Data Fetching Methods: (Done)
 + Understanding the difference between getServerSideProps, getStaticProps, and getStaticPaths.
 + Incremental Static Regeneration (ISR).
 
-API Handling with Next.js:
+API Handling with Next.js: (Done)
 --------------------------
-- Building REST APIs with Next.js.
-- Fetching data from APIs using fetch or Axios.
-- Using SWR (Stale-While-Revalidate) for data fetching.
++ Building REST APIs with Next.js.
++ Fetching data from APIs using fetch or Axios.
++ Using SWR (Stale-While-Revalidate) for data fetching.
 
-State Management with Redux:
-----------------------------
-- Setting up Redux Toolkit in a Next.js app.
-- Handling global state with Redux and useSelector / useDispatch.
-- Using Redux Thunk for async actions.
-
-Environment Variables:
+Environment Variables: (Done)
 ----------------------
-- Using .env.local for environment variables.
-- Security considerations with environment variables.
++ Using .env.local for environment variables.
++ Security considerations with environment variables.
 
-SEO Optimization:
+SEO Optimization: (Done)
 -----------------
-- Meta tags and Open Graph tags with next/head.
-- Dynamic metadata for SEO.
-- Canonical URLs.
-
-Routing with NextAuth:
-----------------------
-- Set up authentication with NextAuth.js.
-- Protected routes and session handling.
++ Meta tags and Open Graph tags with next/head.
++ Dynamic metadata for SEO.
++ Canonical URLs.
 
 
 ================================================================

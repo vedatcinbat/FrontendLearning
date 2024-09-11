@@ -10,7 +10,7 @@ export default async function UsersPage() {
       <h1>Welcome to the Users Page</h1>
       <p>This is the page where users are displayed.</p>
       <ul>
-        {users.map((user) => (
+        {users.map((user: {id: number, name: string}) => (
           <li key={user.id}>{user.name}</li>
         ))}
       </ul>
