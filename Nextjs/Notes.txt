@@ -16,45 +16,45 @@ Introduction to Next.js: (Done)
 + Basic folder structure (pages, public, etc.).
 + Difference between React and Next.js.
 
-Routing in Next.js:
+Routing in Next.js: (Done)
 -------------------
-- Pages-based routing.
-- Dynamic routes and parameters.
-- Nested routes.
-- Shallow routing.
++ Pages-based routing.
++ Dynamic routes and parameters.
++ Nested routes.
++ Shallow routing.
 
-Basic Rendering Methods:
+Basic Rendering Methods: (Done)
 ------------------------
-- Server-Side Rendering (SSR) with getServerSideProps.
-- Static Site Generation (SSG) with getStaticProps and getStaticPaths.
++ Server-Side Rendering (SSR) with getServerSideProps.
++ Static Site Generation (SSG) with getStaticProps and getStaticPaths.
 
-Linking Pages:
+Linking Pages: (Done)
 --------------
-- Using the Link component for navigation.
-- Client-side navigation.
-- Prefetching links for performance optimization.
++ Using the Link component for navigation.
++ Client-side navigation.
++ Prefetching links for performance optimization.
 
-Styling in Next.js:
+Styling in Next.js: (Done)
 -------------------
-- CSS Modules.
-- Global styles (_app.js).
-- Basic TailwindCSS integration.
++ CSS Modules.
++ Global styles (_app.js).
++ Basic TailwindCSS integration.
 
-TypeScript with Next.js:
+TypeScript with Next.js: (Done)
 ------------------------
-- Basic TypeScript setup in Next.js.
-- Type-checking components and props.
-- Defining types for API responses.
++ Basic TypeScript setup in Next.js.
++ Type-checking components and props.
++ Defining types for API responses.
 
 
 ================================================================
 Intermediate Topics:
 ================================================================
 
-Advanced Routing:
+Advanced Routing: (Done)
 -----------------
-- API routes: Creating backend routes in the /api folder.
-- Dynamic routing and catch-all routes ([...slug].js).
++ API routes: Creating backend routes in the /api folder.
++ Dynamic routing and catch-all routes ([...slug].js).
 
 Data Fetching Methods:
 ----------------------
