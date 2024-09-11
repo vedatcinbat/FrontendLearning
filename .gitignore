@@ -76,4 +76,7 @@ Nextjs/my-next-app/build/
 Nextjs/my-next-app/.next/
 Nextjs/my-next-app/out/
 
+############################################
+# Expressjs App 
+Nextjs/my-express-ts-app/node_modules/
 

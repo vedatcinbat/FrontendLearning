@@ -56,10 +56,10 @@ Advanced Routing: (Done)
 + API routes: Creating backend routes in the /api folder.
 + Dynamic routing and catch-all routes ([...slug].js).
 
-Data Fetching Methods:
+Data Fetching Methods: (Done)
 ----------------------
-- Understanding the difference between getServerSideProps, getStaticProps, and getStaticPaths.
-- Incremental Static Regeneration (ISR).
++ Understanding the difference between getServerSideProps, getStaticProps, and getStaticPaths.
++ Incremental Static Regeneration (ISR).
 
 API Handling with Next.js:
 --------------------------
