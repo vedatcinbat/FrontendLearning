@@ -1,10 +1,13 @@
-export default function Home() {
+"use client"
+import { Button } from './components/Button';
+
+export default function HomePage() {
+  const handleClick = () => alert('Button clicked!');
+
   return (
-    <>
-      <h1>Advanced Nextjs</h1>
-      <div>
-        safa sdsa asdasd fasd sd fas d s da sad fasd <h2>sdfasdfasd</h2>
-      </div>
-    </>
+    <div className="flex flex-col items-center justify-center min-h-screen space-y-4">
+      <Button label="Primary Button" onClick={handleClick} variant="primary" size="medium" />
+      <Button label="Secondary Button" onClick={handleClick} variant="secondary" size="large" />
+    </div>
   );
 }

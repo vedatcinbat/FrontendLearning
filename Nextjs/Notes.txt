@@ -83,53 +83,23 @@ SEO Optimization: (Done)
 Advanced Topics:
 ================================================================
 
-Middleware and API Handling:
+Middleware and API Handling: (Done)
 ----------------------------
-- Creating and using custom middleware for API routes.
-- Error handling in APIs.
-- API rate limiting, authentication, and authorization.
++ Creating and using custom middleware for API routes.
++ Error handling in APIs.
++ API rate limiting, authentication, and authorization.
 
-Optimizing Performance:
------------------------
-- Image optimization using next/image.
-- Static Optimization (Automated SSG and Hybrid SSG).
-- Web Vitals (LCP, FID, CLS) and performance analytics with Next.js.
-
-Internationalization (i18n):
+Internationalization (i18n): (Done)
 ----------------------------
-- Setting up multi-language support with Next.js.
-- Localization of URLs, content, and routing.
++ Setting up multi-language support with Next.js.
++ Localization of URLs, content, and routing.
 
-Custom Server:
+Custom Server: (Done)
 --------------
-- Setting up a custom Next.js server (e.g., with Node.js/Express.js).
-- Handling requests and responses manually.
++ Setting up a custom Next.js server (e.g., with Node.js/Express.js).
++ Handling requests and responses manually.
 
-Advanced TailwindCSS:
----------------------
-- Customizing the Tailwind theme.
-- Purging unused styles for production.
-- Using plugins and directives in Tailwind.
-
-Real-World Deployment:
-----------------------
-- Deploying Next.js apps on Vercel, AWS, or DigitalOcean.
-- CI/CD pipelines for deploying Next.js apps.
-- Using Docker for Next.js deployment.
-
-Building Custom Hooks and Components:
+Building Custom Hooks and Components: (Done)
 -------------------------------------
-- Reusable UI components with TailwindCSS.
-- Building custom React hooks for fetching data and handling state.
-
-Testing Next.js Apps:
----------------------
-- Unit testing with Jest.
-- End-to-end testing with Cypress.
-- Testing Next.js APIs and server-side logic.
-
-GraphQL Integration:
---------------------
-- Setting up GraphQL with Next.js.
-- Querying data with Apollo Client.
-- Using GraphQL code generator for TypeScript support.
++ Reusable UI components with TailwindCSS.
++ Building custom React hooks for fetching data and handling state.
