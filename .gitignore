@@ -84,3 +84,6 @@ Nextjs/my-next-app/.env.prod
 # Expressjs App 
 Nextjs/my-express-ts-app/node_modules/
 
+############################################
+# Next.js - Advanced
+Nextjs/advanced-next/node_modules/
